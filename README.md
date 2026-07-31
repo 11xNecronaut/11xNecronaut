@@ -1,4 +1,4 @@
-# Hi, I'm Caeser 👋
+# Hi, I'm Dipesh 👋
 
 ### Cybersecurity Fresher | SOC | Vulnerability Assessment | Security Engineering
 
@@ -38,5 +38,5 @@ A Post-Quantum Secure Data Hiding Platform combining:
 
 ## 📫 Connect With Me
 
-[LinkedIn]((https://www.linkedin.com/in/dipesh1cybersec/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtuI%2FEqP2Tba9uGAiCsmnNA%3D%3D)) • [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/dipesh1cybersec/) • [Portfolio](YOUR_PORTFOLIO_URL)
 
