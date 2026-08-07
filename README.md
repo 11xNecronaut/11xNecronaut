@@ -1,6 +1,6 @@
 # Hi, I'm Dipesh 👋
 
-### Cybersecurity Fresher | SOC | Vulnerability Assessment | Security Engineering
+### Cybersecurity analyst | SOC | Vulnerability Assessment | Security Engineering
 
 I'm a cybersecurity enthusiast focused on defensive security, vulnerability assessment,
 security engineering, and practical security research.
