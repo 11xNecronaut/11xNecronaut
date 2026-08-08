@@ -25,7 +25,7 @@ A Post-Quantum Secure Data Hiding Platform combining:
 - PySide6 GUI
 - Secure data workflows
 
-## 🧰 Tools & Technologies
+## 🧰 Tech Stack & Tools
 
 `Linux` `Python` `Nmap` `Nessus` `Metasploit` `Wireshark`
 `Splunk` `Wazuh` `Git` `GitHub`
