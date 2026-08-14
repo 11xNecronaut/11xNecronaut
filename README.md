@@ -38,5 +38,5 @@ A Post-Quantum Secure Data Hiding Platform combining:
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/dipesh1cybersec/) • [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/dipesh1cybersec/) • [Portfolio](https://11xnecronaut.github.io)
 
